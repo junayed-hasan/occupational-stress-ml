@@ -196,8 +196,12 @@ Contributions are welcome! To contribute:
 
 ## 📬 Contact  
 
-📌 **Author:** Mohammad Junayed Hasan  
-📌 **Email:** junayedhasan100@gmail.com
-📌 **LinkedIn:** https://www.linkedin.com/in/mjhasan21/
+📌 **Collaborators:** Mohammad Junayed Hasan and Jannat Sultana
+
+📌 **Supervisors:** Dr. Sifat Momen (sifat.momen@northsouth.edu, https://scholar.google.com/citations?user=sGVZEaAAAAAJ), Ms. Silvia Ahmed (silvia.ahmed@northsouth.edu, https://scholar.google.com/citations?user=T5jK--YAAAAJ&hl=en&oi=ao)
+
+📌 **Emails:** junayedhasan100@gmail.com, jannatsultana187@gmail.com
+
+📌 **LinkedIn:** https://www.linkedin.com/in/mjhasan21/, https://www.linkedin.com/in/jannat-sultana/
 
 We appreciate your interest in our research and welcome discussions, collaborations, and feedback! 🚀
