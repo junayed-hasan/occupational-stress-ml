@@ -103,7 +103,7 @@
 | **Pandas**      | Data manipulation |  
 | **NumPy**       | Numerical computing |  
 | **Scikit-learn**| Machine learning models & evaluation |  
-| **TensorFlow**  | Deep learning framework |  
+| **PyTorch**  | Deep learning framework |  
 | **Hugging Face Transformers** | NLP and Large Language Models |  
 | **Seaborn & Matplotlib** | Data visualization |  
 | **SHAP & LIME** | Explainable AI (XAI) |  
