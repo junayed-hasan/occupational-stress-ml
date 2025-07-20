@@ -1,25 +1,15 @@
 # Early detection of occupational stress: Enhancing workplace safety with machine learning and large language models
 **📌 A Machine Learning, Deep Learning, and NLP-based Approach**  
 
+📄 **Published in PLOS ONE (2025):**  
+Hasan, M. J., Sultana, J., Ahmed, S., & Momen, S.  
+[**Early detection of occupational stress: Enhancing workplace safety with machine learning and large language models**](https://doi.org/10.1371/journal.pone.0323265)  
+_PLOS ONE, 20(6), e0323265 (2025)_
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 [![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)  
 [![Jupyter](https://img.shields.io/badge/Notebooks-Jupyter-orange.svg)](https://jupyter.org/)  
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#contributing)  
-
----
-
-## 📖 Table of Contents  
-
-1. [🔍 Overview](#-overview)  
-2. [📂 Repository Structure](#-repository-structure)  
-3. [💻 Tech Stack](#-tech-stack)  
-4. [🚀 Getting Started](#-getting-started)  
-5. [🔪 Usage](#-usage)  
-6. [📊 Results & Key Findings](#-results--key-findings)  
-7. [📌 Industry Relevance](#-industry-relevance)  
-8. [📝 License](#-license)  
-9. [🤝 Contributing](#-contributing)  
-10. [📬 Contact](#-contact)  
 
 ---
 
@@ -179,6 +169,25 @@ This research has **direct implications** for:
 
 ---
 
+## 📚 Citation
+
+If you use this repository in your research, please cite:
+
+```bibtex
+@article{hasan2025early,
+  title={Early detection of occupational stress: Enhancing workplace safety with machine learning and large language models},
+  author={Hasan, Mohammad Junayed and Sultana, Jannat and Ahmed, Silvia and Momen, Sifat},
+  journal={PLoS One},
+  volume={20},
+  number={6},
+  pages={e0323265},
+  year={2025},
+  publisher={Public Library of Science San Francisco, CA USA},
+  doi={https://doi.org/10.1371/journal.pone.0323265}
+}
+```
+
+--- 
 ## 📝 License  
 
 This project is licensed under the [MIT License](LICENSE), allowing free use, modification, and distribution.
